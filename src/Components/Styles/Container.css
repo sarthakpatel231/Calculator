@@ -1,0 +1,5 @@
+.rectangle{
+  width: 400px; /* Adjust width as desired */
+  height: 600px; /* Adjust height as desired */
+  border: 2px solid black; /* Border properties */
+}
